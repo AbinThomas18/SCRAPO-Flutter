@@ -1,5 +1,7 @@
-# bechdal_app
-Bechdal is an Flutter based Hybrid app, mainly created to learn advance concepts of flutter and firebase. It is a type of OLX App, where user can buy, sell and favourtes products. The user also have the permission to chat with the seller.
+# SCRAPO APP
+An app that act as a digital marketplace that streamlines the process of buying and selling scrap materials with features like chat and location based services.
+Technology used: Flutter, Firebase
+
 
 
 ## Firebase DB Structure
